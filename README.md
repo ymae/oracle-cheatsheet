@@ -1,2 +1,1 @@
-# oracle-cheatsheet
-Oracle CheatSheet
+# Oracle CheatSheet
